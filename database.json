@@ -1,0 +1,12 @@
+{
+    "dev": {
+        "driver": "mysql",
+        "user": "sa",
+        "password":"Admin@1234" 
+    },
+    "prod": {
+        "driver": "mysql",
+        "user": "sa",
+        "password":"Admin@1234" 
+      }
+  }
